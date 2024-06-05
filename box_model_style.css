@@ -1,0 +1,53 @@
+section {
+    background-color: #03045e;
+    width: 800px;
+    height: 800px;
+}
+
+div {
+    background-color: #0077b6;
+    width: 70%;
+    height: 50%;
+}
+
+h1 {
+    font-size: 40px;
+    border: 1px solid black;
+    line-height: 200%;
+}
+
+h2 {
+    font-size: 2m;
+}
+
+p {
+    font-size: 0.8em;
+}
+
+#ems {
+    font-size: 30px;
+}
+
+#ems button {
+    font-size: 1em;
+    padding: 0 1em;
+    border-radius: .5em;
+    background-color: #00b4d8;
+    color: #caf0f8;
+}
+
+#ems ul {
+    font-size: 2rem;
+}
+
+#rems h2 {
+    font-size: 3rem;
+}
+
+#rems h3 {
+    font-size: 2rem;
+}
+
+#rems ul {
+    font-size: .9rem;
+}
